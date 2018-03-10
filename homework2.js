@@ -13,7 +13,7 @@ let peopleSalary = [
     }
 ]
 
-console.log("peopleSalary", peopleSalary)
+// console.log("peopleSalary", peopleSalary)
 
 let new_peopleSalary = [];
 for (const item in peopleSalary) {
