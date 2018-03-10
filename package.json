@@ -1,0 +1,16 @@
+{
+  "name": "front-end-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node homework2.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "Front-end-Bootcamp"
+  },
+  "author": "",
+  "license": "ISC"
+}
